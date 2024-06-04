@@ -1,2 +1,2 @@
 # Corsera-Test
-Corsesa Test Repository
+Corsera Test Repository
